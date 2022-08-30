@@ -7,4 +7,9 @@ This repo will let you be able t use GitHub and git command line very easily. Th
    in the command line type this code inside the folder where you want to create a copy of the repo from github into your local machine
   
 
-## Day 2 Basic Commands
+## Day 2 To initialise a folder as a git repository
+   inisde the folder type **git init**
+   
+   this will create a hidden folder containing all the necessaary info for the initialisation of the repository
+   
+   
