@@ -26,5 +26,5 @@ This repo will let you be able t use GitHub and git command line very easily. Th
         S1: git status  //  to check for those file which have been changed
         S2: git add . //to add all those file with changes
         S3: git add filename // to add only a specific file
-        S4: git commit-m "message"
+        S4: git commit -m "message"
         S5: git push origin -u master
