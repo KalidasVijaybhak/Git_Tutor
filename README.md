@@ -15,10 +15,13 @@ This repo will let you be able t use GitHub and git command line very easily. Th
    
 ## Tip 3 To know the current branch
      git symbolic-ref --short HEAD
+     
 
      git branch 
+     
 
      git branch --list 
+     
 
      git rev-parse --abbrev-ref HEAD   // This should work with Git 1.6.3 or newer.
 
