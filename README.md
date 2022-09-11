@@ -48,4 +48,4 @@ or
 
         git status
     
-    SHow the current working tree status(that is it dilsplay all those files which in which changes hae occured)
+   SHow the current working tree status(that is it dilsplay all those files which in which changes hae occured)
