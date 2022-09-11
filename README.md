@@ -44,8 +44,8 @@ or
    *Step 5:*  
         
         git push origin -u master
-## Tip 4
+## Tip 5
 
         git status
     
-   SHow the current working tree status(that is it dilsplay all those files which in which changes hae occured)
+   Show the current working tree status(that is it dilsplay all those files which in which changes hae occured)
