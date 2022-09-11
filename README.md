@@ -1,7 +1,7 @@
 # Git_Tutor
 This repo will let you be able t use GitHub and git command line very easily. The tutorial is updated on a daily basis and and anyone can contribute be it new commands , real life git issues and solution, shortcuts, tricks etc. 
 
-## Tip 3 Cloning a repository into local device
+## Tip 1 Cloning a repository into local device
    git clone https:<area>//github.com/YOUR-USERNAME/YOUR-REPOSITORY 
    
    in the command line type this code inside the folder where you want to create a copy of the repo from github into your local machine
@@ -44,3 +44,8 @@ or
    *Step 5:*  
         
         git push origin -u master
+## Tip 4
+
+        git status
+    
+    SHow the current working tree status(that is it dilsplay all those files which in which changes hae occured)
