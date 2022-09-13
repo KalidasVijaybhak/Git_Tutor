@@ -58,7 +58,8 @@ or
 ## Tip 7 Know the local email address git is associated with
 	git config --global user.email
 
-   
+## Tip 8 Change local Email Address to macth githuh account email address
+	git config --global user.email "YOUR_GITHUB_EMAIL_ADDRESS"
 
 
 
