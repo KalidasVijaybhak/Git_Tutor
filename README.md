@@ -50,7 +50,7 @@ or
     
    Show the current working tree status(that is it dilsplay all those files which in which changes hae occured)
 
-## Tip 6 To update local repo if chnages in remote repo exist(most simple case)
+## Tip 6 To update local repo if changes in remote repo exist(most simple case)
 	git pull --rebase origin master
 
    With the above command we can update the local repo with the changes of the remote branch to local branch
