@@ -59,3 +59,11 @@ or
 	git config --global user.email
 
    
+
+
+
+# SOLUTIONS TO VARIOUS ISSUES
+ >This section will give the best possible solution from various solutions from the web which I feel solved the problem
+	
+## Commits not showing up on GitHub contributions graph.
+ > Solution: https://medium.com/@soufianerafik/commits-not-showing-up-on-github-contributions-graph-c3b539ad42a1
