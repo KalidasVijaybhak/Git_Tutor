@@ -55,7 +55,7 @@ or
 
    With the above command we can update the local repo with the changes of the remote branch to local branch
 
-##Tip 7 Know the local email address git is associated with
+## Tip 7 Know the local email address git is associated with
 	git config --global user.email
 
    
