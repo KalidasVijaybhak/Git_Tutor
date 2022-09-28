@@ -70,3 +70,5 @@ or
 	
 ## Commits not showing up on GitHub contributions graph.
  > Solution: https://medium.com/@soufianerafik/commits-not-showing-up-on-github-contributions-graph-c3b539ad42a1
+## Github variety commands
+ > Solution: https://medium.com/design-bootcamp/git-commands-nobody-has-told-you-cd7025bea8db
